@@ -1,0 +1,130 @@
+{
+  "breakfasts": [
+    {
+      "id": 1,
+      "dish_name": "Saffola Masala Oats",
+      "item_price": "40",
+      "description": "Healthy and tasty masala oats for you!",
+      "image_link": "http://127.0.0.1:5500/assets/masala%20oats.jpg",
+      "category": "breakfast"
+    },
+    {
+      "dish_name": "Sandwich",
+      "item_price": "99",
+      "description": "Healthy and tasty sandwich included veggies for breakfast",
+      "image_link": "http://127.0.0.1:5500/assets/breakfast-sandwich-.jpg",
+      "category": "breakfast",
+      "id": 2
+    },
+    {
+      "dish_name": "Vegetable Poha",
+      "item_price": "20",
+      "description": "Vegetable poha, a cheap, tasty and healthy choice for breakfast",
+      "image_link": "http://127.0.0.1:5500/assets/pohaa.jpg",
+      "category": "breakfast",
+      "id": 3
+    }
+  ],
+  "lunchs": [
+    {
+      "id": 1,
+      "dish_name": "Aaloo Paratha",
+      "item_price": "80",
+      "description": "Aaloo paratha with dahi chutney",
+      "image_link": "https://cdn.cdnparenting.com/articles/2020/01/19152919/Aloo-Paratha-Recipe.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 2,
+      "dish_name": "Palak Paneer",
+      "item_price": "250",
+      "description": "Palak paneer with taste and health benefits",
+      "image_link": "http://127.0.0.1:5500/assets/Palak-Paneer.jpg",
+      "category": "lunch"
+    },
+    {
+      "dish_name": "Shahi Paneer",
+      "item_price": 220,
+      "description": "Shahi paneer in indian style",
+      "image_link": "https://www.bing.com/th?id=OSK.3d652e923d50e274125eb582e1533bf1&w=197&h=118&c=7&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1",
+      "category": "lunch",
+      "id": 3
+    },
+    {
+      "dish_name": "chicken biryani",
+      "item_price": 292,
+      "description": "Lazeez hyederabadi chicken biryani",
+      "image_link": "https://www.bing.com/th?id=OIP.RPXb2duhQ2sSDc3--BPWxQHaHa&w=197&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "category": "lunch",
+      "id": 5
+    },
+    {
+      "dish_name": "Daal Bhapla ",
+      "item_price": "200",
+      "description": "Famous Indian cousine Daal Bhapla, try today in your lunch",
+      "image_link": "https://th.bing.com/th/id/OIP.p9mmGGYZPkbyPMkh4Ufq9wHaEK?w=269&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "lunch",
+      "id": 6
+    }
+  ],
+  "snacks": [
+    {
+      "id": 1,
+      "dish_name": "White Sauce Cheese pasta",
+      "item_price": "150",
+      "description": "White sauce pasta with mozarella cheese",
+      "image_link": "assets/white_sauce_pasta.jpeg",
+      "category": "snacks"
+    },
+    {
+      "dish_name": "Shawarma",
+      "item_price": 92,
+      "description": "Tasty chicken shawarma",
+      "image_link": "https://th.bing.com/th/id/OIP.54H7cFwCZ16yDWwWuOAz1wHaEK?w=326&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "snacks",
+      "id": 2
+    },
+    {
+      "dish_name": "Potato Cheese Balls",
+      "item_price": "150",
+      "description": "Tasty potato balls filled with cheese!",
+      "image_link": "https://www.bing.com/th?id=OIP.meQBd4YxcRUNuNQ7ZDrbpwHaF7&w=197&h=157&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "category": "snacks",
+      "id": 3
+    }
+  ],
+  "dinners": [
+    {
+      "dish_name": "Beef Steak",
+      "item_price": "450",
+      "description": "Delicious Juicy Beef Steak roasted in butter and herbs",
+      "image_link": "https://th.bing.com/th/id/OIP.ZUiRmp-RLTyl_GpEIvhk4AHaE7?w=265&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "dinner",
+      "id": 2
+    },
+    {
+      "dish_name": "Mutton Biryani",
+      "item_price": 272,
+      "description": "The dish is the mutton biryani, made in mughlai style.",
+      "image_link": "https://www.bing.com/th?id=OSK.HEROR3aPBEeoxWx6xog_6sq5uiNtyEha1gTk-t9Mc5Sqwho&w=472&h=280&c=13&rs=2&o=6&oif=webp&dpr=1.3&pid=SANGAM",
+      "category": "dinner",
+      "id": 4
+    },
+    {
+      "dish_name": "Malai Kofta",
+      "item_price": "185",
+      "description": "Malai kofta made in indian style ",
+      "image_link": "https://www.bing.com/th?id=AMMS_9870f890ecf90cdf5b4615ba00686fa5&w=197&h=118&c=7&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1",
+      "category": "dinner",
+      "id": 5
+    },
+    {
+      "dish_name": "Chhole Bhature",
+      "item_price": "200",
+      "description": "Spicy Chhole Bhature. served with butter Naan",
+      "image_link": "http://127.0.0.1:5500/assets/chole-masale1.jpg",
+      "category": "dinner",
+      "id": 6
+    }
+  ]
+}
